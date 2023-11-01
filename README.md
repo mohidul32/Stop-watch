@@ -1,2 +1,2 @@
 # Stop-watch
- A simple Stop Watch
+ Stop Watch
